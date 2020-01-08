@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81093e7c-dc4c-48ed-87e4-3ae0095b1c3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="c87afe51-29a9-4d25-ab4b-e37be9fdc307" />
+  <component name="ProjectId" id="1VEbNfwqJ0wVAcYJwuHzf77ZU1j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/distribution/depth.csv" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="grapth1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grapth1" type="PythonConfigurationType" factoryName="Python">
+      <module name="grapth1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81093e7c-dc4c-48ed-87e4-3ae0095b1c3d" name="Default Changelist" comment="" />
+      <created>1576821162463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576821162463</updated>
+      <workItem from="1576821176422" duration="8939000" />
+      <workItem from="1577193864652" duration="2044000" />
+      <workItem from="1577196225104" duration="392000" />
+      <workItem from="1577196667862" duration="7131000" />
+      <workItem from="1577207066462" duration="3026000" />
+      <workItem from="1577210859358" duration="842000" />
+      <workItem from="1577343987403" duration="8731000" />
+      <workItem from="1577442407778" duration="1295000" />
+      <workItem from="1578282571584" duration="418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="34" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576828283969">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="278" y="34" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.694@0.27.1366.694" timestamp="1576828283969" />
+    <state x="416" y="122" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576823298484">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="416" y="122" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.694@0.27.1366.694" timestamp="1576823298484" />
+    <state x="466" y="131" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576827943700">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="466" y="131" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.694@0.27.1366.694" timestamp="1576827943700" />
+    <state width="1320" height="160" key="GridCell.Tab.0.bottom" timestamp="1576827616961">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="160" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1576827616961" />
+    <state width="1320" height="160" key="GridCell.Tab.0.center" timestamp="1576827616960">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="160" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1576827616960" />
+    <state width="1320" height="160" key="GridCell.Tab.0.left" timestamp="1576827616960">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="160" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1576827616960" />
+    <state width="1320" height="160" key="GridCell.Tab.0.right" timestamp="1576827616960">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="160" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1576827616960" />
+    <state width="1320" height="200" key="GridCell.Tab.1.bottom" timestamp="1576825273702">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.bottom/0.27.1366.694@0.27.1366.694" timestamp="1576825273702" />
+    <state width="1320" height="200" key="GridCell.Tab.1.center" timestamp="1576825273701">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.center/0.27.1366.694@0.27.1366.694" timestamp="1576825273701" />
+    <state width="1320" height="200" key="GridCell.Tab.1.left" timestamp="1576825273701">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.left/0.27.1366.694@0.27.1366.694" timestamp="1576825273701" />
+    <state width="1320" height="200" key="GridCell.Tab.1.right" timestamp="1576825273702">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.right/0.27.1366.694@0.27.1366.694" timestamp="1576825273702" />
+    <state x="172" y="27" width="1012" height="694" key="SettingsEditor" timestamp="1576832448632">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="172" y="27" width="1012" height="694" key="SettingsEditor/0.27.1366.694@0.27.1366.694" timestamp="1576832448632" />
+    <state width="683" height="348" key="XDebugger.FullValuePopup" timestamp="1577198527441">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="683" height="348" key="XDebugger.FullValuePopup/0.27.1366.694@0.27.1366.694" timestamp="1577198527441" />
+    <state x="339" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1577442407801">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="339" y="200" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1577442407801" />
+    <state x="346" y="42" width="672" height="678" key="search.everywhere.popup" timestamp="1576828370707">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="346" y="42" width="672" height="678" key="search.everywhere.popup/0.27.1366.694@0.27.1366.694" timestamp="1576828370707" />
+  </component>
+</project>
